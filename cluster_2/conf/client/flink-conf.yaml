@@ -90,7 +90,7 @@ state.backend: filesystem
 # (or any local file system under Windows), or "S3://" for S3 file system.
 #
 # state.backend.fs.checkpointdir: hdfs://namenode-host:port/flink-checkpoints
-state.backend.fs.checkpointdir: file:///data/flink-1.1.3/cluster_1/chek
+state.backend.fs.checkpointdir: file:///data/flink-1.1.3/cluster_2/chek
 
 
 #==============================================================================
@@ -116,7 +116,7 @@ taskmanager.network.numberOfBuffers: 2048
 # If not specified, the system-specific Java temporary directory (java.io.tmpdir
 # property) is taken.
 #
-taskmanager.tmp.dirs: /data/flink-1.1.3/cluster_1/tmps
+taskmanager.tmp.dirs: /data/flink-1.1.3/cluster_2/tmps
 
 
 # Path to the Hadoop configuration directory.

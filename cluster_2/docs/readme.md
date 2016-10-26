@@ -3,7 +3,7 @@ standalone mode
 ```
 
 ```
-
+no HA
 ```
 
 
