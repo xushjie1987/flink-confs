@@ -8,7 +8,7 @@ no HA
 
 
 
-
+```
 .
 ├── chek
 │   └── 928343176d945abd739ffb400a5b810c
@@ -70,3 +70,9 @@ no HA
     └── wc.sh
 
 26 directories, 32 files
+```
+
+
+
+
+
