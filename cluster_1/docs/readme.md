@@ -1,14 +1,7 @@
 ```
 local mode
 ```
-
 ```
-
-```
-
-
-
-
 .
 ├── chek
 │   ├── 8f2d417d0bad4380c7f36f797a7a1c6d
@@ -39,3 +32,9 @@ local mode
     └── wc.sh
 
 10 directories, 17 files
+```
+
+
+
+
+

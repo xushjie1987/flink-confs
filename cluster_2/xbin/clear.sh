@@ -1,5 +1,7 @@
 #!/bin/sh
 
+rm -rf /data/flink-1.1.3/cluster_2/logs/client/*
+
 rm -rf /data/flink-1.1.3/cluster_2/logs/jobmanager/*
 rm -rf /data/flink-1.1.3/cluster_2/pids/jobmanager/*
 rm -rf /data/flink-1.1.3/cluster_2/chek/*
